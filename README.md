@@ -1,3 +1,11 @@
+Participants of Bertelsmann Technology Scholarship created an awesome list of
+resources and they want to share it with the world, if you find illegal
+resources please report to us and we will remove.
+
+### Big Thank you to everyone from Bertelsmann Technology Scholarship for their
+contribution to this list of awesome resources
+
+
 | Topic  | Small description | Link | 
  |-------|-------------------|-----|
 | Advances in AI | Newsletter with brief description of things happening around AI / ML world, often provides links to working code repositories exemplifying particular technique / phenomenon. | https://thesequence.substack.com/ | 
