@@ -1,7 +1,6 @@
 | Topic  | Small description | Link | 
  |-------|-------------------|-----|
-| Advances in AI | Newsletter with brief description of things happening around AI / ML world,
-often provides links to working code repositories exemplifying particular technique / phenomenon. | https://thesequence.substack.com/ | 
+| Advances in AI | Newsletter with brief description of things happening around AI / ML world, often provides links to working code repositories exemplifying particular technique / phenomenon. | https://thesequence.substack.com/ | 
 | Research Papers on AI | Multiple Research Papers on AI by Lex Friedman | https://scholar.google.com/citations?user=wZH_N7cAAAAJ&hl=en | 
 | Programming | Cheatsheets of all programming language | https://cheatography.com/programming/ | 
 | https://www.coursera.org/learn/machine-learning | Hi all, this is the coursera ML course by Andrew Ng   | https://www.coursera.org/learn/machine-learning | 
@@ -20,8 +19,7 @@ often provides links to working code repositories exemplifying particular techni
 | Introduction to Python Programming.  | In this course, you'll learn the fundamentals of the Python programming language, along with programming best practices. | https://www.udacity.com/course/introduction-to-python--ud1110 | 
 | NumPy Basic: Exercises, Practice, Solution.  | NumPy Basic [41 exercises with solution].  | https://www.w3resource.com/python-exercises/numpy/basic/index.php | 
 | A Beginners Guide to AI Product Management.  | In 2017 I shipped my first Artificial Intelligence (AI) product.  Here are 13 AI Product Management basics I learned during that time. | https://medium.com/swlh/a-beginners-guide-to-ai-product-management-eda63ab86db5 | 
-| fast.ai Making neural nets uncool again.  | Free online courses include: Practical Deep Learning for Coders, Deep Learning from the Foundations, Practical Data Ethics, Computational Linear Algebra,
-and Code-First Introduction to Natural Language Processing | https://www.fast.ai/ | 
+| fast.ai Making neural nets uncool again.  | Free online courses include: Practical Deep Learning for Coders, Deep Learning from the Foundations, Practical Data Ethics, Computational Linear Algebra, and Code-First Introduction to Natural Language Processing | https://www.fast.ai/ | 
 | Essential Guide to AI Product Management.  | As a practicing APM and organizer of a successful AI Meetup, I wanted to share useful resources, best practices and tips that I came across and learned from my experience.  | https://medium.com/swlh/essential-guide-to-ai-product-management-9483688d38d0 | 
 | Data Science vs. Artificial Intelligence vs. Machine Learning vs. Deep Learning.  | It’s very common these days to come across these terms - data science, artificial intelligence, machine learning, deep learning, neural networks, and much more. But what do these buzzwords actually mean? And why should you care about one or the other? | https://towardsdatascience.com/data-science-vs-artificial-intelligence-vs-machine-learning-vs-deep-learning-9fadd8bda583 | 
 | Machine Learning by Andrew Ng    TOP INSTRUCTOR | In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. | https://www.coursera.org/learn/machine-learning | 
@@ -32,12 +30,9 @@ and Code-First Introduction to Natural Language Processing | https://www.fast.ai
 | But what is a Neural Network? | Deep learning, chapter 1.  | A detailed video about artificial neural networks with mentioning neurons and other components.  | https://www.youtube.com/watch?v=aircAruvnKk | 
 | State-of-the-art research papers about deep learning.   | The latest papers in machine learning and its, algorithms.  | https://paperswithcode.com/ | 
 | Machine Learning & Deep Learning Fundamentals  | Course on Deep Learning Concepts | https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU | 
-| With DeepMind AI could be one of humanity’s most useful inventions.  | We’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence. 
- | https://www.youtube.com/c/DeepMind/about | 
+| With DeepMind AI could be one of humanity’s most useful inventions.  | We’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence.   | https://www.youtube.com/c/DeepMind/about | 
 | A Short Practical Introduction to Machine Learning: Predicting Survival on the Titanic! | In this article, I will show you how I my first submission to Kaggle.  You can also code-along with me if you’d like. | https://medium.com/analytics-vidhya/a-short-practical-introduction-to-machine-learning-predicting-survival-on-the-titanic-4acd2809b523 | 
-| Elements of AI free online course! | The Elements of AI is a series of free online courses created by Reaktor and the University of Helsinki. We want to encourage as broad a group of people as possible to learn what AI is, what can (and can’t) be done with AI
-
- | https://course.elementsofai.com/ | 
+| Elements of AI free online course! | The Elements of AI is a series of free online courses created by Reaktor and the University of Helsinki. We want to encourage as broad a group of people as possible to learn what AI is, what can (and can’t) be done with AI  | https://course.elementsofai.com/ | 
 | Artificial Intelligence | The resource I'm sharing is a great podcast made by Lex Fridman. He shares a lot of knowledge about AI Research and Industry. | https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4 | 
 | The Batch Weekly Newsletter | The Batch presents the most important AI events and perspective in a curated, easy-to-read report for engineers and business leaders. | https://www.deeplearning.ai/thebatch/ | 
 | Machine Learning Engineering book written by Andriy Burkov. | If you intend to use machine learning to solve business problems at scale, I'm delighted you got your hands on this book.  | http://www.mlebook.com/wiki/doku.php | 
@@ -155,25 +150,21 @@ and Code-First Introduction to Natural Language Processing | https://www.fast.ai
 | Machine Learning | Learn to create Machine Learning Algorithms in Python Data Science enthusiasts. Code templates included. | https://www.udemy.com/course/learn-machine-learning-in-21-days/?couponCode=CODEWARRIORS | 
 | Data Visualization  | Data Visualization in the real world. A little old but does make a great point for effective, efficient and concise visualization.  | https://www.brainpickings.org/2013/10/08/best-american-infographics-david-byrne/ | 
 | Convolution neural network | What is a Convolutional Neural Network? | https://poloclub.github.io/cnn-explainer/ | 
-| Python | Python Bootcamp 2020 Build 15 working Applications and Games. 
- | https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=DECE02 | 
+| Python | Python Bootcamp 2020 Build 15 working Applications and Games.   | https://www.udemy.com/course/python-complete-bootcamp-2019-learn-by-applying-knowledge/?couponCode=DECE02 | 
 | Tensorflow | CS 20: Tensorflow for Deep Learning Research | http://web.stanford.edu/class/cs20si/syllabus.html | 
 | Data Science | This lecture series will cover several introductory concepts in data science and machine learning.     | https://www.youtube.com/playlist?list=PLMrJAkhIeNNQV7wi9r7Kut8liLFMWQOXn | 
 | Free AI-powered coding assistant tool   | Kite is a tool for code autocomplete, for  Less Keystrokes and for Coding Faster. Kite is a free AI-powered coding assistant that will help you code faster and smarter. The Kite plugin integrates with all the top editors and IDEs to give you smart completions and documentation while you’re typing. | https://www.kite.com/get-kite/?utm_me | 
-| Run Jupyter Notebook in the cloud | Six easy ways to run your Jupyter Notebook in the cloud
- | https://www.dataschool.io/cloud-services-for-jupyter-notebook/ | 
+| Run Jupyter Notebook in the cloud | Six easy ways to run your Jupyter Notebook in the cloud  | https://www.dataschool.io/cloud-services-for-jupyter-notebook/ | 
 | AI Track Notes | It contains my notes on the lesson and related article and videos collected from the slack channels. Also I have included FAQ section for the queries. | https://github.com/nihalbaig0/Bertelsmann-Scholarship---Introduction-to-AI-in-Business-Nanodegree-Program-2020 | 
 | Python | These are some handy cheat sheets for Python Programming related to ML and Data Science. |  | 
 | Free graphics software | Free graphics software used to create vector graphics | https://vectr.com/ | 
 | Free Design Tool | Tool for design use cases: UI, UX, graphic, prototyping | https://www.figma.com/ | 
 | Datasets for Machine Learning and Data Science | Best open-access datasets for machine learning, data science, sentiment analysis, computer vision, natural language processing (NLP), clinical data, and others. | https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f | 
-| Rasa Chatbot | How to create a Chatbot, using Rasa?
-To know the Answer, follow the Link.. | https://medium.com/analytics-vidhya/build-a-chatbot-using-rasa-78406306aa0c | 
+| Rasa Chatbot | How to create a Chatbot, using Rasa? To know the Answer, follow the Link.. | https://medium.com/analytics-vidhya/build-a-chatbot-using-rasa-78406306aa0c | 
 | Lessons and notebooks on machine learning and applied machine learning in production. | How to responsibly develop, deploy and maintain applications that are made with machine learning. | https://madewithml.com/ | 
 | Machine Learning Zero to Hero (Google I/O'19) | Image categorization example with Tensorflow and Keras | https://www.youtube.com/watch?v=VwVg9jCtqaU | 
 | Machine Learning | HandsonMachine-Learning-with-Scikit-2E  |  | 
-| Statistics | An Introduction to
-Statistical Learning |  | 
+| Statistics | An Introduction to Statistical Learning |  | 
 | Deep Learning A-Z | Learn to create Deep Learning Algorithms in Python from two Machine Learning & Data Science experts. Templates included. | https://www.udemy.com/course/deeplearning/?couponCode=YESDATA2020DEC | 
 | Script of lessons | I wrote everything of the lesson down in one script, so people can read the ressources on the go :) this is the link to the 2nd lesson | https://bertelsmannaitrack.slack.com/archives/C01FDE407Q9/p1607953805204700 | 
 | Script of Lesson 3 | I wrote everthing of Lesson 3 down in a script for people to read on the go. I already postet it in some channels, (because I didn't notice this great opportunity), but for lesson 4 and 5 I will directly upload it here :) | https://bertelsmannaitrack.slack.com/archives/C01G1BDE5QC/p1608231639413200 | 
@@ -189,9 +180,7 @@ Statistical Learning |  |
 | AI - fairness and bias | Fairness and bias in artificial intelligence | ttps://medium.com/datadriveninvestor/fairness-and-bias-in-artificial-intelligence-c7fbfe880df | 
 | AI Podcast  | MIT Technology Review // In Machine we trust  | https://forms.technologyreview.com/in-machines-we-trust/ | 
 | AI Podcast | Exponential View. How AI and other exponential technologies are transforming business and society. | https://hbr.org/2019/04/podcast-exponential-view | 
-| Python NLTK (2009) | Natural Language Processing with Python
-– Analyzing Text with the Natural Language Toolkit
-Steven Bird, Ewan Klein, and Edward Loper | https://www.nltk.org/book/ | 
+| Python NLTK (2009) | Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit Steven Bird, Ewan Klein, and Edward Loper | https://www.nltk.org/book/ | 
 | Elements of AI (course for free) | Welcome to the Elements of AI free online course! | https://www.elementsofai.com/ | 
 | Linear Algebra | Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares | http://vmls-book.stanford.edu/ | 
 | Statistics | Jeremy Balka's statistics channel, containing some introductory statistics videos.  | https://www.youtube.com/user/jbstatistics/videos | 
@@ -253,8 +242,7 @@ Steven Bird, Ewan Klein, and Edward Loper | https://www.nltk.org/book/ |
 | Python for Data Analysis 2nd Edition | This book is concerned with the nuts and bolts of manipulating, processing, cleaning, and crunching data in Python.  |  | 
 | Artificial Intelligence for Robotics |  Class will teach students basic methods in Artificial Intelligence, including probabilistic inference, planning and search, localization, tracking, mapping and control, all with a focus on robotics. | https://classroom.udacity.com/courses/cs373 | 
 | Recurrent Neural Networks | A friendly introduction to Recurrent Neural Networks | https://www.youtube.com/watch?v=UNmqTiOnRfg | 
-| AI, Human Intelligence  |  "Humans Won't Be Able to Control Artificial Intelligence, Scientists Warn"
-Some smart robots can perform complex tasks on their own, without the programmers understanding how they learned them.  | https://www.entrepreneur.com/article/363284 | 
+| AI, Human Intelligence  |  "Humans Won't Be Able to Control Artificial Intelligence, Scientists Warn" Some smart robots can perform complex tasks on their own, without the programmers understanding how they learned them.  | https://www.entrepreneur.com/article/363284 | 
 | Entire Computer Science Curriculum | Entire Computer Science Curriculum in 1000 YouTube Videos/ Laconicml | https://laconicml.com/computer-science-curriculum-youtube-videos/ | 
 | Python | Beginner Level Python book. |  | 
 | Statistics | It's a good resource I used in statistics lesson. |  | 
@@ -291,13 +279,11 @@ Some smart robots can perform complex tasks on their own, without the programmer
 | AI - biases- how to overcome them | AI - biases- how to overcome them | https://www.ted.com/talks/verna_myers_how_to_overcome_our_biases_walk_boldly_toward_them?utm_source=tedcomshare&utm_medium=social&utm_campaign=tedspread | 
 | AI for project Mangers  | The impact of AI on project management | https://www.linkedin.com/learning/artificial-intelligence-for-project-managers | 
 | Data Engineering | Roadmap of Data Engineering | https://github.com/datastacktv/data-engineer-roadmap/blob/master/text/roadmap.md | 
-| Data Science | A comparison of pipenv and conda as of Jan 2021 based on various “data science-ish” criteria
- | https://soumaya-mauthoor.medium.com/pipenv-vs-conda-for-data-scientists-b9a372faf9d9 | 
+| Data Science | A comparison of pipenv and conda as of Jan 2021 based on various “data science-ish” criteria  | https://soumaya-mauthoor.medium.com/pipenv-vs-conda-for-data-scientists-b9a372faf9d9 | 
 | Data Analysis | COVID-19 Data Analysis with Python | https://emredurukn.medium.com/covid-19-data-analysis-with-python-4e01d57d651 | 
 | Superintelligence (AI/Ethics) | Superintelligence is a hypothetical agent that possesses intelligence far surpassing that of thebrightest and most gifted human minds. In light of recent advances in machine intelligence, a num-ber of scientists, philosophers and technologists have revived the discussion about the potentiallycatastrophic risks entailed by such an entity.  In this article, we trace the origins and developmentof the neo-fear of superintelligence, and some of the major proposals for its containment. We arguethat total containment is, in principle, impossible, due to fundamental limits inherent to comput-ing itself. Assuming that a superintelligence will contain a program that includes all the programsthat can be executed by a universal Turing machine on input potentially as complex as the state ofthe world, strict containment requires simulations of such a program, something theoretically (andpractically) impossible. | https://jair.org/index.php/jair/article/view/12202/26642 | 
 | AI Robotics + Theory of mind | Behavior modeling is an essential cognitive ability that underlies many aspects of human and animal social behavior (Watson in Psychol Rev 20:158, 1913), and an ability we would like to endow robots. Most studies of machine behavior modelling, however, rely on symbolic or selected parametric sensory inputs and built-in knowledge relevant to a given task. Here, we propose that an observer can model the behavior of an actor through visual processing alone, without any prior symbolic information and assumptions about relevant inputs. To test this hypothesis, we designed a non-verbal non-symbolic robotic experiment in which an observer must visualize future plans of an actor robot, based only on an image depicting the initial scene of the actor robot. We found that an AI-observer is able to visualize the future plans of the actor with 98.5% success across four different activities, even when the activity is not known a-priori. We hypothesize that such visual behavior modeling is an essential cognitive ability that will allow machines to understand and coordinate with surrounding agents, while sidestepping the notorious symbol grounding problem. Through a false-belief test, we suggest that this approach may be a precursor to Theory of Mind, one of the distinguishing hallmarks of primate social cognition. | https://www.nature.com/articles/s41598-020-77918-x?utm_source=red&utm_medium=nl&utm_campaign=ada&utm_content=2021117 | 
-| Natural language predicts viral escape, NLP | Natural language predicts viral escape
-Viral mutations that evade neutralizing antibodies, an occurrence known as viral escape, can occur and may impede the development of vaccines. To predict which mutations may lead to viral escape, Hie et al. used a machine learning technique for natural language processing with two components: grammar (or syntax) and meaning (or semantics) (see the Perspective by Kim and Przytycka). Three different unsupervised language models were constructed for influenza A hemagglutinin, HIV-1 envelope glycoprotein, and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike glycoprotein. Semantic landscapes for these viruses predicted viral escape mutations that produce sequences that are syntactically and/or grammatically correct but effectively different in semantics and thus able to evade the immune system. | https://science.sciencemag.org/content/371/6526/284?utm_source=red&utm_medium=nl&utm_campaign=ada&utm_content=2021117 | 
+| Natural language predicts viral escape, NLP | Natural language predicts viral escape Viral mutations that evade neutralizing antibodies, an occurrence known as viral escape, can occur and may impede the development of vaccines. To predict which mutations may lead to viral escape, Hie et al. used a machine learning technique for natural language processing with two components: grammar (or syntax) and meaning (or semantics) (see the Perspective by Kim and Przytycka). Three different unsupervised language models were constructed for influenza A hemagglutinin, HIV-1 envelope glycoprotein, and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spike glycoprotein. Semantic landscapes for these viruses predicted viral escape mutations that produce sequences that are syntactically and/or grammatically correct but effectively different in semantics and thus able to evade the immune system. | https://science.sciencemag.org/content/371/6526/284?utm_source=red&utm_medium=nl&utm_campaign=ada&utm_content=2021117 | 
 | NLP (Introduction) | Speech and Language Processing | https://web.stanford.edu/~jurafsky/slp3/ | 
 | Bayesian Reasoning and Machine Learning | Bayesian Reasoning and Machine Learning | http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf | 
 | Python (Java, C, C++, JavaScript, and Ruby) | Tool to Visualize Code Execution for Python, Java, C, C++, JavaScript, and Ruby | http://www.pythontutor.com/ | 
@@ -339,9 +325,7 @@ Viral mutations that evade neutralizing antibodies, an occurrence known as viral
 | Resources  | AI for Earth technical resources | https://www.microsoft.com/en-us/ai/ai-for-earth | 
 | The Cambridge handbook of artificial intelligence | The book gives information about the definition, history, dimensions, and ethics of AI. | https://www.keithfrankish.com/handbook-of-artificial-intelligence/ | 
 | Artificial Intelligence: A Modern Approach | It gives general information about AI and AI techniques.  It can be a guidebook to learn AI in detail.  | http://aima.cs.berkeley.edu/ | 
-| Artificial Intelligence: A System Approach | The book consists of information about AI, AI history, and AI techniques.
-
-(It can be found as a pdf document by searching on the Internet.) | https://www.amazon.com/Artificial-Intelligence-Systems-Approach-Computer/dp/0763773379 | 
+| Artificial Intelligence: A System Approach | The book consists of information about AI, AI history, and AI techniques. (It can be found as a pdf document by searching on the Internet.) | https://www.amazon.com/Artificial-Intelligence-Systems-Approach-Computer/dp/0763773379 | 
 | Introduction to Machine Learning | If you interest in machine learning methods and techniques theoretically, it can be a guidebook. | https://www.cmpe.boun.edu.tr/~ethem/i2ml2e/ | 
 | Machine learning for enterprises: Applications, algorithm selection, and challenges | It gives information about ML, ML algorithms, and accuracy of ML algorithms, and some ML application examples for enterprises. Besides, it mentions challenges in deploying machine learning in enterprises. | https://www.sciencedirect.com/science/article/abs/pii/S0007681319301521 | 
 | Measurementality (Podcast) | Measurementality is a new series of podcasts, webinars and reports created by the IEEE Standards Association (IEEE SA) in collaboration with The Radical AI Podcast focused on defining what counts in the Algorithmic Age.  While it’s critical that Artificial Intelligence Systems (AIS) are transparent, responsible, and trustworthy, Measurementality will explore the deeper issues around what measurements of success we’re optimizing for in the first place. | https://standards.ieee.org/events/measurementality/index.html?utm_source=beyondstandards&utm_medium=post&utm_campaign=measurementality-2021 | 
@@ -353,10 +337,8 @@ Viral mutations that evade neutralizing antibodies, an occurrence known as viral
 | ML  | Rules of Machine Learning: Best Practices for ML Engineering | https://developers.google.com/machine-learning/guides/rules-of-ml | 
 | MeshTensorFlow | Mesh TensorFlow (mtf) is a language for distributed deep learning | https://github.com/tensorflow/mesh | 
 | UX | The People + AI Guidebook was written to help user experience (UX) professionals and product managers follow a human-centered approach to AI. | https://pair.withgoogle.com/guidebook/ | 
-| Tensorflow object detection Api  | using Tensorflow object detection Api 
- | https://www.analyticsvidhya.com/blog/2020/04/build-your-own-object-detection-model-using-tensorflow-api/ | 
-|  Machine Learning |  Machine Learning Glossary
- | https://ml-cheatsheet.readthedocs.io/en/latest/ | 
+| Tensorflow object detection Api  | using Tensorflow object detection Api   | https://www.analyticsvidhya.com/blog/2020/04/build-your-own-object-detection-model-using-tensorflow-api/ | 
+|  Machine Learning |  Machine Learning Glossary  | https://ml-cheatsheet.readthedocs.io/en/latest/ | 
 | ComputerVision  |  OpenCV Library for ComputerVision  | https://www.geeksforgeeks.org/opencv-python-tutorial/ | 
 | AWS: What Leaders Must Know About Data to Drive Success With Machine Learning | AWS: What Leaders Must Know About Data to Drive Success With Machine Learning. Learn more about how organizations can overcome obstacles and accelerate their machine learning journeys, visit the AWS machine learning resource hub. |  | 
 | AWS: ML -Prepare your workforce for machine learning | AWS: ML -Prepare your workforce for machine learning. "Transform Your Workforce With Skills for Machine Learning" helps to discover how you can bridge the skills gap from within. |  | 
@@ -384,31 +366,23 @@ Viral mutations that evade neutralizing antibodies, an occurrence known as viral
 | Data Science | 100+ Free Data Science Books (Updated 2021 List) | https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html | 
 | Machine Learning | 100+ Free Machine Learning Books (Updated 2021 List) | https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html | 
 | Programming | 100+ Free Programming Books (Updated 2021 List) | https://www.theinsaneapp.com/2021/01/free-programming-books.html | 
-| Deep learning | Recognizing words 
-
- | https://www.tensorflow.org/tutorials/audio/simple_audio | 
-| Introduction to Artificial Intelligence | The book defines AI, briefs AI history, and gives theoretical information about logic, search, problem-solving, reasoning with uncertainty, machine learning, and data mining,
-neural networks, and reinforcement learning. | https://www.springer.com/gp/book/9783319584867 | 
+| Deep learning | Recognizing words   | https://www.tensorflow.org/tutorials/audio/simple_audio | 
+| Introduction to Artificial Intelligence | The book defines AI, briefs AI history, and gives theoretical information about logic, search, problem-solving, reasoning with uncertainty, machine learning, and data mining, neural networks, and reinforcement learning. | https://www.springer.com/gp/book/9783319584867 | 
 | Introduction to AI with Python | CS50’s Introduction to Artificial Intelligence with Python explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. | https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python | 
 | The hard lessons of modeling the coronavirus pandemic | Researchers build epidemiological models to get a better understanding of diseases. But with COVID-19, getting a clear view of the virus has been difficult. In the fight against COVID-19, disease modelers have struggled with misunderstanding and misuse of their work. They have also come to realize how unready the state of modeling was for this pandemic. | https://www.quantamagazine.org/the-hard-lessons-of-modeling-the-coronavirus-pandemic-20210128/ | 
-| Trove - crowdsourcing marketplace where developers can gather images for AI models from regular individuals | Trove is a new crowdsourcing marketplace from Microsoft where
-developers can gather images for AI models from regular individuals,
-responsibly sourced through licensing and privacy frameworks.
-Get highly relevant and diverse images from real people, for your specific scenario and use case. | https://www.microsoft.com/en-us/ai/trove?activetab=pivot1%3aprimaryr3 | 
+| Trove - crowdsourcing marketplace where developers can gather images for AI models from regular individuals | Trove is a new crowdsourcing marketplace from Microsoft where developers can gather images for AI models from regular individuals, responsibly sourced through licensing and privacy frameworks. Get highly relevant and diverse images from real people, for your specific scenario and use case. | https://www.microsoft.com/en-us/ai/trove?activetab=pivot1%3aprimaryr3 | 
 | Automatic scripts exports-nbautoexport-jupyter-code-review | Nbautoexport is a tool for automatically running notebook exports when you save notebooks while using Jupyter. In this section, we'll walk through the basic setup and use. | https://www.drivendata.co/blog/nbautoexport-jupyter-code-review/ | 
 | Multi-Class Metrics | Explain why F1-scores are used, and how to calculate them in a multi-class setting. | https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1 | 
 | Evaluating models | Describes how to use evaluation metrics for your model after it is trained, and provides some basic suggestions for ways you might be able to improve model performance. | https://cloud.google.com/automl-tables/docs/evaluate | 
 | TensorFlow Federated | TensorFlow Federated (TFF) is an open-source framework for machine learning and other computations on decentralized data.  | https://www.tensorflow.org/federated | 
 | Federated Learning Comics | An online comic from Google AI | https://federated.withgoogle.com/ | 
 | Computer Vision | Magazine | https://www.rsipvision.com/ComputerVisionNews-2021February/ | 
-| Data Science | 10 NLP Terms Every Data Scientist Should Know
- | https://towardsdatascience.com/10-nlp-terms-every-data-scientist-should-know-43d3291643c0 | 
+| Data Science | 10 NLP Terms Every Data Scientist Should Know  | https://towardsdatascience.com/10-nlp-terms-every-data-scientist-should-know-43d3291643c0 | 
 | Python | Designing Custom 2D and 3D CNNs in PyTorch | https://towardsdatascience.com/designing-custom-2d-and-3d-cnns-in-pytorch-712c4976a4fb | 
 | Machine Learning | Predicting Manhattan Rent with Linear Regression | https://towardsdatascience.com/predicting-manhattan-rent-with-linear-regression-27766041d2d9 | 
 | Data Science | You Should Master Data Analytics First Before Becoming a Data Scientist | https://towardsdatascience.com/you-should-master-data-analytics-first-before-becoming-a-data-scientist-5dbceaea9d3d | 
 | Python | Learn how to use the loc method in the pandas Python library | https://towardsdatascience.com/how-to-use-loc-in-pandas-49ed348a4117 | 
-| Data Science | 7 Steps to a Successful Data Science Project
-Beginners Guide on Completing a Data Science Project from Scratch | https://towardsdatascience.com/7-steps-to-a-successful-data-science-project-b452a9b57149 | 
+| Data Science | 7 Steps to a Successful Data Science Project Beginners Guide on Completing a Data Science Project from Scratch | https://towardsdatascience.com/7-steps-to-a-successful-data-science-project-b452a9b57149 | 
 | Tensorflow | Tensorflow pre trained model tutorials | https://www.tensorflow.org/hub/tutorials | 
 | Isotonic Regression and Pava Algorithm | Isotonic Regression is used in the probability calibration of classifiers. Probability Calibration of classifiers deals with the process of optimizing the output of classifiers so that the outputs of the classifier model can be directly interpreted as a confidence level and Pava inspects the points and if it finds a point that violates the constraints, it pools that value with its adjacent members which ultimately go on to form a block. | https://www.analyticsvidhya.com/blog/2021/02/isotonic-regression-and-the-pava-algorithm/ | 
 | Data Science | Career Development | https://media-exp1.licdn.com/dms/document/C4D1FAQF6NtnMYT4ffA/feedshare-document-pdf-analyzed/0/1612870520087?e=1612987200&v=beta&t=WkHrHsJOspmfXx8MSbijcTpxe-mfoWXgleR4wN9N20w | 
@@ -421,8 +395,7 @@ Beginners Guide on Completing a Data Science Project from Scratch | https://towa
 | AI reading list: 8 interesting books about artificial intelligence to check out | AI reading list: 8 interesting books about artificial intelligence to check out | https://www.techrepublic.com/article/ai-reading-list-interesting-books-about-artificial-intelligence-to-check-out | 
 | Science fiction hasn’t prepared us to imagine machine learning | Science fiction did a great job preparing us for submarines and rockets. But it seems to be struggling lately. We don’t know what to hope for, what to fear, or what genre we’re even in. "Clearly some plot twist involving machine learning is underway. It’s been hard to keep up with new developments: from BERT (2018) to GPT-3 (2020)—which can turn a prompt into an imaginary news story—to, most recently, CLIP and DALL-E (2021), which can translate verbal descriptions into images." | https://tedunderwood.com/2021/02/02/why-sf-hasnt-prepared-us-to-imagine-machine-learning/?utm_campaign=Data_Elixir&utm_source=Data_Elixir_322 | 
 | Comet is doing for ML what Github did for code | Track your datasets, code changes, experimentation history, and models. Comet provides insights and data to build better models, faster while improving productivity, collaboration and explainability. | https://www.comet.ml/site/data-scientists/ | 
-| Kneed, kneedle algorithm, Python | This repository is an attempt to implement the kneedle algorithm. Given a set of x and y values, kneed will return the knee point of the function. The knee point is the point of maximum curvature.
- | https://github.com/arvkevi/kneed | 
+| Kneed, kneedle algorithm, Python | This repository is an attempt to implement the kneedle algorithm. Given a set of x and y values, kneed will return the knee point of the function. The knee point is the point of maximum curvature.  | https://github.com/arvkevi/kneed | 
 | Qlib, Quant investment strategies, investement platform |  Qlib is an AI-oriented quantitative investment platform. It contains the full ML pipeline of data processing, model training, back-testing; and covers the entire chain of quantitative investment: alpha seeking, risk modeling, portfolio optimization, and order execution. | https://github.com/microsoft/qlib | 
 | data science | data science course | https://www.coursera.org/specializations/deep-learning?ranMID=40328&ranEAID=3dLVJOdWzdw&ranSiteID=3dLVJOdWzdw-XrZKdnXGjSgg95xULcTI1g&siteID=3dLVJOdWzdw-XrZKdnXGjSgg95xULcTI1g&utm_content=2&utm_medium=partners&utm_source=linkshare&utm_campaign=3dLVJOdWzdw | 
 | Machine Learning | Building ML model | https://towardsdatascience.com/how-to-build-a-machine-learning-model-439ab8fb3fb1 | 
@@ -436,8 +409,7 @@ Beginners Guide on Completing a Data Science Project from Scratch | https://towa
 | Machine Learning is Fun!  | The world’s easiest introduction to Machine Learning. This guide is for anyone who is curious about machine learning but has no idea where to start. | https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471 | 
 | What to expect in your first data science role | What to expect in your first data science role | https://paytonsoicher.medium.com/what-to-expect-in-your-first-data-science-role-88120722fc68 | 
 | Machine Learning | ML Cheat Sheet | https://media-exp1.licdn.com/dms/document/C4E1FAQHTCyS_acskzg/feedshare-document-pdf-analyzed/0/1613476500837?e=1613588400&v=beta&t=Qgq9HP_E0lubKbCflU70D8BDTSm58b58VP27oxdChuE | 
-| NetAdapt | Platform-Aware Neural Network Adaptation for Mobile Applications
- | https://media-exp1.licdn.com/dms/document/C4E1FAQEZ4hCmOsLtDw/feedshare-document-pdf-analyzed/0/1613473029793?e=1613592000&v=beta&t=d7YSYuDti_wVrWESsIWUUjE_rjqgRtgBpSVaIELr_Zo | 
+| NetAdapt | Platform-Aware Neural Network Adaptation for Mobile Applications  | https://media-exp1.licdn.com/dms/document/C4E1FAQEZ4hCmOsLtDw/feedshare-document-pdf-analyzed/0/1613473029793?e=1613592000&v=beta&t=d7YSYuDti_wVrWESsIWUUjE_rjqgRtgBpSVaIELr_Zo | 
 | Data Visualization | Data Visualization with seaborn | https://media-exp1.licdn.com/dms/document/C561FAQFJTQzL_ZmabA/feedshare-document-pdf-analyzed/0/1613497768540?e=1613588400&v=beta&t=6xOL3_0x8dqGJ80mkG_S6_Y-BhL9pQIhxmjHMQWK6-8 | 
 | Software Architecture | Fundamentals of Software Architecture | http://fundamentalsofsoftwarearchitecture.com | 
 | Java | How to program (series)  java |  | 
@@ -482,15 +454,11 @@ Beginners Guide on Completing a Data Science Project from Scratch | https://towa
 | Data Science | Book Advise | https://pub.towardsai.net/best-data-science-books-free-and-paid-data-science-book-recommendations-b519046dcca5 | 
 | Computer Vision | How Computer Vision Works | https://www.youtube.com/watch?v=OcycT1Jwsns | 
 | Neural Networks | How Neural Networks Work | https://www.youtube.com/watch?v=JrXazCEACVo | 
-| Several Tutorials Notebooks for Python | The notebooks are about Data Science, EDA, ML, DL, CNNs, RNNs, etc., and some libraries such as  seaborn and PyTorch 
- | https://www.kaggle.com/kanncaa1/notebooks | 
+| Several Tutorials Notebooks for Python | The notebooks are about Data Science, EDA, ML, DL, CNNs, RNNs, etc., and some libraries such as  seaborn and PyTorch   | https://www.kaggle.com/kanncaa1/notebooks | 
 | Data Science | Cheat Sheet | https://media-exp1.licdn.com/dms/document/C4E1FAQFMW_Wk8lujZg/feedshare-document-pdf-analyzed/0/1614014309708?e=1614171600&v=beta&t=2TyvnGpfs7WVVxDBYlJOSsiqvwsxHOxpuvlRtXJWBVs | 
 | R Programming | Cheat Sheet | https://media-exp1.licdn.com/dms/document/C561FAQEcIATCMRHbhg/feedshare-document-pdf-analyzed/0/1614076875452?e=1614164400&v=beta&t=zTfr4ib-sHf4A5Vm3BY_7AjVhMxsp7UIErLLBOQgiAc | 
 | Git | Cheat Sheet | https://media-exp1.licdn.com/dms/image/C4E22AQGoZgxl4dpdAQ/feedshare-shrink_1280/0/1614038640457?e=1617235200&v=beta&t=Sm6K1u3StK0xcCnIm5iF-LIIeoigMqpVyPOsJjPOdKI | 
-| Data Science, Machine Learning Projects | This Repository is divided into four main parts. 1) Roadmap
-2) Free online Courses
-3) 500+ Datascience Projects
-4) 100+ Free Machine Learning Books. | https://github.com/therealsreehari/Learn-Datascience-for-Free | 
+| Data Science, Machine Learning Projects | This Repository is divided into four main parts. 1) Roadmap 2) Free online Courses 3) 500+ Datascience Projects 4) 100+ Free Machine Learning Books. | https://github.com/therealsreehari/Learn-Datascience-for-Free | 
 | Numeric Analysis | The Gauss-Seidel Method | https://www.youtube.com/watch?v=F6J3ZmXkMj0 | 
 | Web Developping | The only course you need to learn web development - HTML, CSS, JS, Node, and More! | https://www.udemy.com/course/the-web-developer-bootcamp/ | 
 | Machine Learning | 100+ Machine Learning Algorithms | https://media-exp1.licdn.com/dms/image/C4D22AQG3LG2SqZ8E9Q/feedshare-shrink_1280/0/1614100376530?e=1617235200&v=beta&t=geLOBBiSjt125403VJyqPd6aOb61emC8pE09kJZ0UTU | 
@@ -520,22 +488,17 @@ Beginners Guide on Completing a Data Science Project from Scratch | https://towa
 | Machine Learning | Your First Machine Learning Project in Python Step-By-Step | https://machinelearningmastery.com/machine-learning-in-python-step-by-step/ | 
 | Don't build chatbot end to end | Advices for chatbot developing | https://medium.com/voice-tech-podcast/dont-build-chatbot-end-to-end-2f8ca69f9f46 | 
 | Wireflow for chatbot | Why wireflow is important for building a graphical user interface? What does it take to have “wireflow” for conversational experience? You can find there answers for these and more questions. | https://sean-wu.medium.com/wireframe-for-chatbot-72fb4861ed7b | 
-| Artificial Intelligence | Can A.I. make music? Can it feel excitement and fear? Is it alive? Will.i.am and Mark Sagar push the limits of what a machine can do. How far is too far, and how much further can we go?
-
-The Age of A.I. is an 8 part documentary series hosted by Robert Downey Jr. covering the ways Artificial Intelligence, Machine Learning and Neural Networks will change the world.  | https://youtu.be/UwsrzCVZAb8 | 
+| Artificial Intelligence | Can A.I. make music? Can it feel excitement and fear? Is it alive? Will.i.am and Mark Sagar push the limits of what a machine can do. How far is too far, and how much further can we go? The Age of A.I. is an 8 part documentary series hosted by Robert Downey Jr. covering the ways Artificial Intelligence, Machine Learning and Neural Networks will change the world.  | https://youtu.be/UwsrzCVZAb8 | 
 | Python | Python dashboard libraries: exploring interaction voila, dash, and streamlit | https://www.youtube.com/watch?v=mZOIeOeswB0 | 
 | Python | Natural Language Processing in Python | https://www.youtube.com/watch?v=xvqsFTUsOmc | 
 | Deep Learning | Deep Learning Crash Course for Beginners | https://www.youtube.com/watch?v=VyWAvY2CF9c | 
-| Python | Compose and Program Music in Python using Earsketch
-by Coursera Project Network | https://www.coursera.org/learn/compose-program-music-in-python-using-earsketch/ | 
-| AI ethics  | Coded Bias: Unmasking the Abuses of Face Recognition Technologies in Society  |Aalto University
-Film screening and panel discussion with the director | https://www.aalto.fi/en/events/coded-bias-unmasking-the-abuses-of-face-recognition-technologies-in-society?utm_source=linkedin&utm_medium=social_own&utm_campaign=&utm_content= | 
+| Python | Compose and Program Music in Python using Earsketch by Coursera Project Network | https://www.coursera.org/learn/compose-program-music-in-python-using-earsketch/ | 
+| AI ethics  | Coded Bias: Unmasking the Abuses of Face Recognition Technologies in Society  |Aalto University Film screening and panel discussion with the director | https://www.aalto.fi/en/events/coded-bias-unmasking-the-abuses-of-face-recognition-technologies-in-society?utm_source=linkedin&utm_medium=social_own&utm_campaign=&utm_content= | 
 | Python | Linear Algebra with Python | https://media-exp1.licdn.com/dms/document/C4E1FAQFU_a6dFGUSTw/feedshare-document-pdf-analyzed/0/1615032208033?e=1615136400&v=beta&t=V4TR8U09L7NFt3QNrR3nzpjpEb1RDmu5Yr85ghwWSZ4 | 
 | Machine Learning | Amazon's Machine Learning University on Youtube | https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw | 
 | Deep Learning | Yann LeCunn's Deep Learning course in New York University | https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq | 
 | Python, Machine Learning, Tensorflow, Deep Learning | Here I documented my journey & all the resources I used to get into the field of ML & DL. | https://github.com/rohit077/100_Days_of_ML | 
-| AI.Applications | Android Kunjappan 5.25
-A movie featuring a Robot as a caretaker for a very stubborn village old man in Kerala, India. | https://www.imdb.com/title/tt9526826/ | 
+| AI.Applications | Android Kunjappan 5.25 A movie featuring a Robot as a caretaker for a very stubborn village old man in Kerala, India. | https://www.imdb.com/title/tt9526826/ | 
 | SQL | Cheat Sheets | https://media-exp1.licdn.com/dms/document/C561FAQGxOPExKwn8fw/feedshare-document-pdf-analyzed/0/1615170495691?e=1615287600&v=beta&t=21od6gNbKSjZwUfx6OdD0s-lVDxZdprSkvpj_bSERMU | 
 | JavaScript - The third age of JavaScript  | presentation about the future of JS from the JSworld conference  | https://docs.google.com/presentation/d/1Dlow7gHNV6MeZ9CmZR0cbN_wfyIU6UcqBNZI4D6rObo/edit#slide=id.g932bfe1e43_0_0 | 
 | How to build a machine learning model  | How to build a machine learning model - Complete guide for your first data science project | https://www.youtube.com/watch?v=KtKZVc0joYQ&t=306s | 
@@ -545,14 +508,11 @@ A movie featuring a Robot as a caretaker for a very stubborn village old man in 
 | C# | Design Patterns in C# and .NET | https://www.udemy.com/course/design-patterns-csharp-dotnet/ | 
 | Data Engineering | The Data Engineering Cookbook | https://media-exp1.licdn.com/dms/document/C4E1FAQGyxUFr6w-6vw/feedshare-document-pdf-analyzed/0/1614418179886?e=1615410000&v=beta&t=YHelU0g01sOcN39ypwV3WrORrDN9Ov-iI_srnMJOZlk | 
 | Machine Learning | MACHINE LEARNING QUICK REFERENCE: BEST PRACTICES | https://media-exp1.licdn.com/dms/document/C4E1FAQHjXv59H2rYIQ/feedshare-document-pdf-analyzed/0/1614925136581?e=1615410000&v=beta&t=K6MDki-vLIogUD8wpWTpzof2C6fi3zPKkQZs4ezIIDo | 
-| Deep Learning | Deep Learning: An Introduction for Applied Mathematicians
- | https://media-exp1.licdn.com/dms/document/C561FAQExE68idXykZg/feedshare-document-pdf-analyzed/0/1614720219689?e=1615406400&v=beta&t=xbxTrBUncp-mS1chRdys4H8y2_YPqQ8YN1sTY7-69bk | 
+| Deep Learning | Deep Learning: An Introduction for Applied Mathematicians  | https://media-exp1.licdn.com/dms/document/C561FAQExE68idXykZg/feedshare-document-pdf-analyzed/0/1614720219689?e=1615406400&v=beta&t=xbxTrBUncp-mS1chRdys4H8y2_YPqQ8YN1sTY7-69bk | 
 | Data Science | 3 Reasons Why You Should Choose MATLAB As The Programming Language To Learn Data Science | https://towardsdatascience.com/why-i-chose-matlab-for-learning-data-science-4f5e4650dce9 | 
-| NLP | Center for Language Engineering
-Urdu and Pakistani regional languages processing center | https://www.cle.org.pk/index.htm | 
+| NLP | Center for Language Engineering Urdu and Pakistani regional languages processing center | https://www.cle.org.pk/index.htm | 
 | Artificial Intelligence | Global AI Hub is a Swiss-based leading global community for AI education and AI career opportunities. | https://globalaihub.com/ | 
-| NLP | UrduHack
-Urduhack is an open-source NLP library for urdu language. It comes with a lot of battery included features to help you process Urdu data in the easiest way possible. | https://docs.urduhack.com/en/latest/index.html | 
+| NLP | UrduHack Urduhack is an open-source NLP library for urdu language. It comes with a lot of battery included features to help you process Urdu data in the easiest way possible. | https://docs.urduhack.com/en/latest/index.html | 
 | Artificial Intelligence | On March 9, 2016, the worlds of Go and artificial intelligence collided in South Korea for an extraordinary best-of-five-game competition, coined The DeepMind Challenge Match. | https://youtu.be/WXuK6gekU1Y | 
 | Machine Learning | Its a list of research papers with the code used and which are reproducable. So its a good resource to learn how others in this field solve problems. | https://paperswithcode.com/ | 
 | I Landed a Job at an AI Startup after Studying for Only 4 Months | I Landed a Job at an AI Startup after Studying for Only 4 Months | https://towardsdatascience.com/i-landed-a-job-at-an-ai-startup-after-studying-for-only-4-months-76d816117a1c | 
@@ -561,33 +521,23 @@ Urduhack is an open-source NLP library for urdu language. It comes with a lot of
 | Data Science | Build data skills online | https://www.datacamp.com/?utm_source=adwords_ppc&utm_campaignid=12492439802&utm_adgroupid=122563404921&utm_device=c&utm_keyword=data%20science%20basic&utm_matchtype=b&utm_network=g&utm_adpostion=&utm_creative=504154790362&utm_targetid=kwd-826912697659&utm_loc_interest_ms=&utm_loc_physical_ms=1012782&gclid=Cj0KCQiAnKeCBhDPARIsAFDTLTLb886hHyNIxMnUwLptseB7dujRORFF_fQ6qeZC_9ZeFSerDp1TjjIaAhD7EALw_wcB | 
 | 'Synthetic humans' and insights into Artificial Intelligence. Could science fiction be our reality much sooner than we think?  | In this program the world’s leading experts attempt to build an artificial human based on actress Gemma Chan, star of the sci-fi series Humans, for a ground-breaking scientific stunt that will test just how far away we are from ‘synthetic’ humans. |  How To Build A Human with Gemma Chan | Artificial Intelligence | Spark  | 
 | Deep Learning MIT 6S.191 couse "Intro to Deep Learning" | This is a 6 lecture 2021 edition course 2021 on Deep Learning covering such topics as Foundation of DL, Recurrent Neural and Convolutional Networks, Deep Generative Modeling, Reinforcement Learning, and Deep Learning New Frontiers. | https://www.youtube.com/watch?v=5tvmMX8r_OM&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI | 
-| imbalanced datasets in machine learning | Handling imbalanced datasets in machine learning
-What should and should not be done when facing an imbalanced classes problem? | https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28 | 
-| OpenAI | CLIP: Connecting Text and Images
-introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3. | https://openai.com/blog/clip/ | 
+| imbalanced datasets in machine learning | Handling imbalanced datasets in machine learning What should and should not be done when facing an imbalanced classes problem? | https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28 | 
+| OpenAI | CLIP: Connecting Text and Images introducing a neural network called CLIP which efficiently learns visual concepts from natural language supervision. CLIP can be applied to any visual classification benchmark by simply providing the names of the visual categories to be recognized, similar to the “zero-shot” capabilities of GPT-2 and GPT-3. | https://openai.com/blog/clip/ | 
 | Model Evaluation | When measuring model performance, we want to have sensible metrics that indicate how well the model is performing. This should encompass the model's ability to predict each of the training classes and give us insight into any biases that may exist on the model. By having these clear metrics, we can get a good idea of how the model will perform when deployed into production, which will ultimately drive performance of the product and its impact in the market. | https://www.notion.so/Model-Evaluation-97bfa579b9684733b1b3b52c449daedc | 
 | precision and recall | In evaluating multi-class classification problems, we often think that the only way to evaluate performance is by computing the accuracy which is the proportion or percentage of correctly predicted labels over all predictions. | https://kavita-ganesan.com/how-to-compute-precision-and-recall-for-a-multi-class-classification-problem/#.YEy3iZ1KhPa | 
 | Overview of Modelling | As a product manager looking to develop AI products, it is important to understand the mechanics of ML. Model architecture, training data and model evaluation are all key elements of ML and are instrumental in successful AI product management. When using AI and products, there are numerous uncertainties that that can alter the course of development and by understand the core concepts, we can stay ahead of the unknowns and plan development accordingly. | https://www.notion.so/Overview-of-Modelling-924b54c3c169402688404d34d823ec8e | 
 | Multi-Class Metrics Made Simple, Part I: Precision and Recall | Performance measures for precision and recall in multi-class classification can be a little — or very — confusing, so in this post I’ll explain how precision and recall are used and how they are calculated. It’s actually quite simple! But first, let’s start with a quick recap of precision and recall for binary classification. | https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2 | 
 | Multi-Class Metrics Made Simple, Part II: the F1-score | article explains another popular performance measure, the F1-score, or rather F1-scores, as there are at least 3 variants. I’ll explain why F1-scores are used, and how to calculate them in a multi-class setting | https://towardsdatascience.com/multi-class-metrics-made-simple-part-ii-the-f1-score-ebe8b2c2ca1 | 
-| The People + AI Guidebook | The Guidebook’s recommendations are based on data and insights from over a hundred individuals across Google product teams, industry experts, and academic research.
-
-These six chapters follow the product development flow, and each one has a related worksheet to help turn guidance into action. | https://pair.withgoogle.com/guidebook/ | 
+| The People + AI Guidebook | The Guidebook’s recommendations are based on data and insights from over a hundred individuals across Google product teams, industry experts, and academic research. These six chapters follow the product development flow, and each one has a related worksheet to help turn guidance into action. | https://pair.withgoogle.com/guidebook/ | 
 | Audio Classification Model  |  Learnable Audio Frontend (LEAF) is a neural network that can be initialized to approximate mel filterbanks, and then be trained jointly with any audio classifier | https://ai.googleblog.com/2021/03/leaf-learnable-frontend-for-audio.html?m=1 | 
 | Combining artificial intelligence and augmented reality in mobile apps | Augmented reality (AR) and artificial intelligence (AI) are two of the most promising technologies available to mobile app developers. Huge hype cycles and rapidly evolving tools, though, have blurred the lines between the two, making it difficult to tell where AI ends and AR begins. This post aims to disambiguate AR and AI. It covers how AR and AI work together, the current state of SDKs and APIs for each, and some practical ways to combine them to build incredible mobile experiences. | https://heartbeat.fritz.ai/combining-artificial-intelligence-and-augmented-reality-in-mobile-apps-e0e0ad2cfddc | 
 | Two Macro-F1's | The bottom line is: there’s more than one macro-F1 score; and data scientists mostly use whatever is available in their software package without giving it a second thought. | https://towardsdatascience.com/a-tale-of-two-macro-f1s-8811ddcf8f04 | 
 | SEER: The start of a more powerful, flexible, and accessible era for computer vision | Facebook AI SEER (SElf-supERvised), a new billion-parameter self-supervised computer vision model that can learn from any random group of images on the internet. | https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision/ | 
 | Introduction to Threshold-Moving for Imbalanced Classification | Classification predictive modeling typically involves predicting a class label. | https://machinelearningmastery.com/threshold-moving-for-imbalanced-classification/ | 
 | Project management- Google program  |  Start your path to a career in project management- Google program  | https://www.coursera.org/professional-certificates/google-project-management | 
-| Calculate Precision, Recall, and F-Measure for Imbalanced Classification | Classification accuracy is the total number of correct predictions divided by the total number of predictions made for a dataset.
-
-As a performance measure, accuracy is inappropriate for imbalanced classification problems. | https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/ | 
-| 4 Types of Classification Tasks in Machine Learning | Machine learning is a field of study and is concerned with algorithms that learn from examples.
-
-Classification is a task that requires the use of machine learning algorithms that learn how to assign a class label to examples from the problem domain. An easy to understand example is classifying emails as “spam” or “not spam.” | https://machinelearningmastery.com/types-of-classification-in-machine-learning/ | 
-| User Persona Examples | Promoting a product without knowing who your target audience–or what your target audience wants–is an impossible task.
-You’ll just be making decisions based on what you think they want. That’s not sustainable over the life of any brand.
-That’s why creating user personas is important for any company that wants to grow. | https://venngage.com/blog/user-persona-examples/ | 
+| Calculate Precision, Recall, and F-Measure for Imbalanced Classification | Classification accuracy is the total number of correct predictions divided by the total number of predictions made for a dataset. As a performance measure, accuracy is inappropriate for imbalanced classification problems. | https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/ | 
+| 4 Types of Classification Tasks in Machine Learning | Machine learning is a field of study and is concerned with algorithms that learn from examples. Classification is a task that requires the use of machine learning algorithms that learn how to assign a class label to examples from the problem domain. An easy to understand example is classifying emails as “spam” or “not spam.” | https://machinelearningmastery.com/types-of-classification-in-machine-learning/ | 
+| User Persona Examples | Promoting a product without knowing who your target audience–or what your target audience wants–is an impossible task. You’ll just be making decisions based on what you think they want. That’s not sustainable over the life of any brand. That’s why creating user personas is important for any company that wants to grow. | https://venngage.com/blog/user-persona-examples/ | 
 | How to Develop Great B2B Buyer Personas (With Templates)  | A B2B buyer persona represents your ideal client decision-maker. When developing your buyer persona, address all the issues and aspects that may have an impact on how, when, and why the person will buy. These factors include demographic information, patterns of behavior, motivation and goals. | https://www.clearvoice.com/blog/develop-b2b-buyer-personas-template/ | 
 | Marketing Plan  | What is a Marketing Plan and How to Make One? | https://venngage.com/blog/marketing-plan/ | 
 | Growth Strategy | Plan Your Business Goals With These 5 Templates | https://venngage.com/blog/growth-strategy/ | 
@@ -603,16 +553,14 @@ That’s why creating user personas is important for any company that wants to g
 | Computer Vision & AI | Researchers From Computer Vision Center (CVC) And The University Of Barcelona Conducted A Study That Results In Improved Accuracy On Face Verification Tasks In The Presence Of Other Confounding Attributes | https://www.marktechpost.com/2021/01/25/researchers-from-computer-vision-center-cvc-and-the-university-of-barcelona-conducted-a-study-that-results-in-improved-accuracy-on-face-verification-tasks-in-the-presence-of-other-confounding-attrib/ | 
 | Machine learning | Algorithms | https://media-exp1.licdn.com/dms/image/C4E22AQEzxg6-JG9MCg/feedshare-shrink_800/0/1614729900985?e=1618444800&v=beta&t=mkAjEY0ijfoXDkROK_6u6DsDLC01VWdsLO-JkO53w98 | 
 | SQL | Learning SQL | https://media-exp1.licdn.com/dms/document/C561FAQFHCR1K3Tl8kw/feedshare-document-pdf-analyzed/0/1615635368513?e=1615730400&v=beta&t=KfGfW2gJmYdzoVSJS_fMHwx9WNLE4Ps6fWST0YU0y5c | 
-| Artificial Intelligence | Cheat Sheets for AI Neural Networks, Machine Learning, DeepLearning & Big Data
- | https://media-exp1.licdn.com/dms/document/C4D1FAQHxYLl9SgnIwQ/feedshare-document-pdf-analyzed/0/1615616237828?e=1615730400&v=beta&t=yzfDH7he3PsPg7umaOOoeYcl_2w4PmGPXtRiC6UQu9E | 
+| Artificial Intelligence | Cheat Sheets for AI Neural Networks, Machine Learning, DeepLearning & Big Data  | https://media-exp1.licdn.com/dms/document/C4D1FAQHxYLl9SgnIwQ/feedshare-document-pdf-analyzed/0/1615616237828?e=1615730400&v=beta&t=yzfDH7he3PsPg7umaOOoeYcl_2w4PmGPXtRiC6UQu9E | 
 | Python | A Simple Walk-through with Matplotlib for Data Science | https://neuraspike.com/blog/matplotlib-tutorial/ | 
 | Python | Numpy Tutorial | https://media-exp1.licdn.com/dms/document/C4E1FAQHbpg16u1jA6g/feedshare-document-pdf-analyzed/0/1615228200424?e=1615734000&v=beta&t=9Iac4GaB7hVKzWO0FdmrTqUsSCNe1fevnxBXW0vlnZY | 
 | MATLAB | Machine Learning with MATLAB | https://uk.mathworks.com/training-schedule/machine-learning-with-matlab.html | 
 | Medical AI TED Talk | Brain scans to get better diagnoses.  | https://www.youtube.com/watch?v=esPRsT-lmw8 | 
 | A real case of solving and automating an issue with AI  | A fully AI-based system to automate water meter data collection in Morocco country | https://www.sciencedirect.com/science/article/pii/S2590005621000047 | 
 | Deep learning for COVID-19 chest CT (computed tomography) image analysis: a lesson from lung cancer | A real case of what we covered in the Udacity Course for the course/challenge: Bertelsmann Technology Scholarship - AI Track | https://www.sciencedirect.com/science/article/pii/S2001037021000672 | 
-| Data Science | Professional Certificate in
-Data Science | https://www.edx.org/professional-certificate/harvardx-data-science | 
+| Data Science | Professional Certificate in Data Science | https://www.edx.org/professional-certificate/harvardx-data-science | 
 | Data Science | What is Data Science? | https://www.edureka.co/blog/what-is-data-science/ | 
 | AWS | MLOps: Continuous Delivery for Machine Learning on AWS | https://media-exp1.licdn.com/dms/document/C561FAQHuO7aYPosq1Q/feedshare-document-pdf-analyzed/0/1615148144347?e=1615806000&v=beta&t=llTuAXlwqLIeaB-suCSmdk6BMwIYt7GrU4UeCTx_O5w | 
 | Computer Vision | How Computer Vision Works | https://www.youtube.com/watch?v=OcycT1Jwsns | 
