@@ -11,7 +11,7 @@ resources please report to us and we will remove it.
 - ### [Deep Learning]()
 - ### [Data Science]()
 - ### [Product Management]()
-- ### [Programming)()
+- ### [Programming]()
 - ### [Mathematics]()
 - ### [Technologies and Tools]()
 
