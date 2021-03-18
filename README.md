@@ -61,7 +61,6 @@ resources please report to us and we will remove it.
 | [GPT-3, and natural language processing. ](https://www.gwern.net/GPT-3) | Creative writing by OpenAI’s GPT-3 model, demonstrating poetry, dialogue, puns, literary parodies, and storytelling.  |
 | [Artificial Intelligence, free content, Stanford](https://online.stanford.edu/artificial-intelligence/free-content) | Deep learning, natural language processing, convolution neural neywork |
 | [Data science](https://dphi.tech/learn/) | Acquire Data Science skills through application-oriented courses.  |
-| [Deep learning, and machine learning]() | This  book  covers  the  building  blocks  of  the  most  common  methods  in  machine learning.  |
 | [SCUM](https://www.atlassian.com/agile/scrum) | Learn how to scrum with the best of  them.  |
 | [Artificial intelligence. ](https://www.youtube.com/watch?v=JMUxmLyrhSk) | Artificial Intelligence Full Course | Artificial Intelligence Tutorial for Beginners | Edureka |
 | [Artificial intelligence, tutorials. ](https://www.youtube.com/watch?v=opgTF9Yf3Dk) | Artificial Intelligence Tutorial | Artificial Intelligence Tutorial for Beginners | AI Full Course.  |
@@ -142,7 +141,6 @@ resources please report to us and we will remove it.
 | [Machine Learning, unsupervised Learning](https://www.udacity.com/course/machine-learning-unsupervised-learning--ud741) | This is the second course in the 3-course Machine Learning Series and is offered at Georgia Tech as CS7641.  |
 | [machine learning, deep learning, NLP](https://kavita-ganesan.com/kavitas-tutorials/#.X9I4NObiuXK) | Kavita’s Articles about text processing, natural language processing, etc... |
 | [Machine learning, AI, deep learning](https://www.newworldai.com/) | Latest Headlines on AI, Machine Learning, Deep Learning, Robotics |
-| [#p2_intro_to_ai_in_business 20 questions]() | #p2_intro_to_ai_in_business 20 questions week1 most prominent questions |
 | [AI, Natural Language Processing with Neural Networks](https://www.zeit.de/digital/2020-11/richard-socher-kuenstliche-intelligenz-interviewpodcast-alles-gesagt) | IN GERMAN LANGUAGE: >8hrs Interview Podacst with Richard Socher providing introduction and motivation in natural language processing (NLP) using neural networks. |
 | [AI Engineer](https://www.freelancermap.com/blog/what-does-ai-engineer-do/) | Career Insights: What does an AI Engineer do? |
 | [Data Science, Python Certification ](https://www.udemy.com/course/data-science-with-python-certification-training/?ranMID=39197&ranEAID=NuZiHLoAApo&ranSiteID=NuZiHLoAApo-hsyy17QMICOI3dHDpFZ5Mg&LSNPUBID=NuZiHLoAApo&utm_source=aff-campaign&utm_medium=udemyads&couponCode=DATA_SCIENCE_UPLATZ) | Start your career as Data Scientist from scratch. Learn Data Science with Python. Predict trends with advanced analytics |
@@ -163,22 +161,15 @@ resources please report to us and we will remove it.
 | [Free AI-powered coding assistant tool  ](https://www.kite.com/get-kite/?utm_me) | Kite is a tool for code autocomplete, for  Less Keystrokes and for Coding Faster. Kite is a free AI-powered coding assistant that will help you code faster and smarter. The Kite plugin integrates with all the top editors and IDEs to give you smart completions and documentation while you’re typing. |
 | [Run Jupyter Notebook in the cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/) | Six easy ways to run your Jupyter Notebook in the cloud  |
 | [AI Track Notes](https://github.com/nihalbaig0/Bertelsmann-Scholarship---Introduction-to-AI-in-Business-Nanodegree-Program-2020) | It contains my notes on the lesson and related article and videos collected from the slack channels. Also I have included FAQ section for the queries. |
-| [Python]() | These are some handy cheat sheets for Python Programming related to ML and Data Science. |
-| [Free graphics software](https://vectr.com/) | Free graphics software used to create vector graphics |
-| [Free Design Tool](https://www.figma.com/) | Tool for design use cases: UI, UX, graphic, prototyping |
 | [Datasets for Machine Learning and Data Science](https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f) | Best open-access datasets for machine learning, data science, sentiment analysis, computer vision, natural language processing (NLP), clinical data, and others. |
 | [Rasa Chatbot](https://medium.com/analytics-vidhya/build-a-chatbot-using-rasa-78406306aa0c) | How to create a Chatbot, using Rasa? To know the Answer, follow the Link.. |
 | [Lessons and notebooks on machine learning and applied machine learning in production.](https://madewithml.com/) | How to responsibly develop, deploy and maintain applications that are made with machine learning. |
 | [Machine Learning Zero to Hero (Google I/O'19)](https://www.youtube.com/watch?v=VwVg9jCtqaU) | Image categorization example with Tensorflow and Keras |
-| [Machine Learning]() | HandsonMachine-Learning-with-Scikit-2E  |
-| [Statistics]() | An Introduction to Statistical Learning |
 | [Deep Learning A-Z](https://www.udemy.com/course/deeplearning/?couponCode=YESDATA2020DEC) | Learn to create Deep Learning Algorithms in Python from two Machine Learning & Data Science experts. Templates included. |
 | [Script of lessons](https://bertelsmannaitrack.slack.com/archives/C01FDE407Q9/p1607953805204700) | I wrote everything of the lesson down in one script, so people can read the ressources on the go :) this is the link to the 2nd lesson |
 | [Script of Lesson 3](https://bertelsmannaitrack.slack.com/archives/C01G1BDE5QC/p1608231639413200) | I wrote everthing of Lesson 3 down in a script for people to read on the go. I already postet it in some channels, (because I didn't notice this great opportunity), but for lesson 4 and 5 I will directly upload it here :) |
-| [Fairness and Biases]() | Fairness and Biases with case Studies |
 | [A Course on ML Production Systems](https://hackmd.io/BtcXs2wnR02spNm5R8z3jw) | Course details from @Google |
 | [Ethics of AI - online course](https://ethics-of-ai.mooc.fi/) | The Ethics of AI is a free online course created by the University of Helsinki |
-| [#p2_intro_to_ai_in_business mind map]() | This mind map is the first part of the mind map I made. It covers the chapters to Lesson 2.14. I have included the text and graphic version |
 | [AI in healthcare](https://research.aimultiple.com/healthcare-ai/) | Usecases  and Examples in Healthcare in 2020 |
 | [How to take a smart notes](https://fortelabs.co/blog/how-to-take-smart-notes/) | 10 Principles to better organize your note-taking and writing |
 | [Julia ](www.juliaacademy.com) | Source for learning all things Julia for free |
@@ -218,12 +209,10 @@ resources please report to us and we will remove it.
 | [Artificial Intelligence (AI)](https://www.edx.org/es/course/artificial-intelligence-ai) | Learn the fundamentals of Artificial Intelligence (AI), and apply them. Design intelligent agents to solve real-world problems including, search, games, machine learning, logic, and constraint satisfaction problems. |
 | [AI - get started](https://opensource.com/article/18/12/how-get-started-ai) | How get started-ai. What should I read? What should I watch? What should I do? |
 | [Learning AI](https://favouriteblog.com/six-easy-steps-to-get-started-learning-artificial-intelligence/) | Steps to get started learning artificial-intelligence |
-| [Script Lesson 4]() | Again I wrote a detailed script for Lesson 4 :) |
 | [Generative Adversarial Network (GANs)](https://github.com/hindupuravinash/the-gan-zoo) | The GANs Zoo, shows an updated List  |
 | [GANs: Generative Adversarial Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8667290) | This survey shows the latest updates in Generative adversarial network (GANs). |
 | [Statistics](https://seeing-theory.brown.edu/) | A visual introduction to probability and statistics. |
 | [Deep Learning](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/) | Deep Learning for Coders with fastai and PyTorch |
-| [Bertelsmann Scholarship- how to start - mind map]() | I prepared a mind map with visual instructions, links and information, where and what help you can get, and how you can catch up |
 | [MongoDB](https://university.mongodb.com/courses/M320/about) | A free tutorial from MongoDB university  M320: Data Modeling with certificate very important in Modeling text-based databases for APIs. |
 | [Pytorch](https://pytorch.org/tutorials/) | Pytorch tutorials for deep learning beginners from pytorch.org |
 | [The AI Podcast](https://soundcloud.com/theaipodcast) | The AI podcast, presented practical applications of ML . Its a great resource for any levels of people interested in ML |
@@ -231,38 +220,24 @@ resources please report to us and we will remove it.
 | [Confusion Matrix](https://www.analyticsinsight.net/demystifying-confusion-matrix/) | What is Confusion Matrix, structure, how to create code for Confusion Matrix in Python |
 | [Deep Learning with Python](https://d2l.ai/) | Learn deep learning with python, this is one of the best resources online. It contains book, notes, codes and video lectures |
 | [Data Science](https://www.kaggle.com/joydeb28/awesome-data-science-cheatsheet#Big-Data) | Cheatsheets for Data Science |
-| [Machine Learning Algos]() | Machine Learning Algos Cheatsheet |
 | [Artificial Neural Networks In Linguistic Data Processing](https://bostonhitech.com/2020/12/30/7-types-of-artificial-neural-networks-in-linguistic-data-processing/top-technology-news/admin/?doing_wp_cron=1610019483.8157188892364501953125) | 7 Types Of Artificial Neural Networks In Linguistic Data Processing. What is meant by an artificial neural network? How does it work What are the types of artificial neural networks? |
 | [Python](https://www.pythonweekly.com/) | Newletter Subscripton Python Weekly |
 | [Annotated Data for Machine Learning](https://lionbridge.ai/articles/how-to-get-annotated-data-for-machine-learning/) | How to Get Annotated Data for Machine Learning? |
 | [AI model vs carbon emission](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/) | AI model vs carbon emission |
-| [Script Lesson 05 Part 1]() | Script Lesson 05 Part 1 |
 | [AI project ideas topics for beginners](https://www.upgrad.com/blog/top-artificial-intelligence-project-ideas-topics-for-beginners/) | Exploring some interesting Artificial Intelligence project ideas which beginners can work on to put their Python knowledge to test. In this article, you will find 16 top Artificial Intelligence project ideas |
 | [Free must read books-machine learning](https://favouriteblog.com/10-free-must-read-books-machine-learning/) | Some of the best machine learning books for beginners freely available online (in pdf format) to download  |
-| [Mathematics for Machine Learning]() | All the math needed in one place |
 | [Data Science Machine Learning](https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html?m=1) | Machine Learning and Data Science cheat sheets |
-| [Python Machine Learning Projects]() | Python Machine Learning Projects |
 | [Machine Learning Project Ideas](https://data-flair.training/blogs/machine-learning-project-ideas) | Machine Learning Project Ideas |
 | [VIP CheatSheets in ML,DL,AI, data science.](stanford.edu/~shervine/ ) | VIP CheatSheets in ML,DL,AI, data science. Well organized, easy-to-digest study guides with visualizations& animations |
 | [Linear algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) | This in-depth course with 34 lectures by MIT will help you get started with it Down pointing backhand index |
-| [Script Lesson 5 part 2]() | This is the last script for the whole 5 lessons! |
-| [Python for Data Analysis 2nd Edition]() | This book is concerned with the nuts and bolts of manipulating, processing, cleaning, and crunching data in Python.  |
 | [Artificial Intelligence for Robotics](https://classroom.udacity.com/courses/cs373) |  Class will teach students basic methods in Artificial Intelligence, including probabilistic inference, planning and search, localization, tracking, mapping and control, all with a focus on robotics. |
 | [Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg) | A friendly introduction to Recurrent Neural Networks |
 | [AI, Human Intelligence ](https://www.entrepreneur.com/article/363284) |  "Humans Won't Be Able to Control Artificial Intelligence, Scientists Warn" Some smart robots can perform complex tasks on their own, without the programmers understanding how they learned them.  |
 | [Entire Computer Science Curriculum](https://laconicml.com/computer-science-curriculum-youtube-videos/) | Entire Computer Science Curriculum in 1000 YouTube Videos/ Laconicml |
-| [Python]() | Beginner Level Python book. |
-| [Statistics]() | It's a good resource I used in statistics lesson. |
-| [Numpy]() | Some exercises in Numpy |
 | [ML and Data Science Cheat Sheet](https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html?m=1) | Nice tips and notes. |
 | [Machine Learning](https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms) | Machine Learning Course |
 | [Helen Dataset ](http://www.ifp.illinois.edu/~vuongle2/helen/) | The resulting dataset consists of 2000 training and 330 test images with highly accurate, detailed, and consistent annotations of the primary facial components. |
-| [Machine Learning]() | Andrew NG- Machine Learning Yearning |
-| [Data Mining]() | Introduction to Data Mining |
 | [Python - Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) | Python Data Science Handbook |
-| [MATLAB]() | Notes for Professionals |
-| [Data Engineering]() | Toolbox Book |
-| [Neural Networks]() | Neural Network Toolbox |
 | [Computer Vision](https://www.vision.rwth-aachen.de/course/28/) | RWTH AACHEN University - Computer Vision Lecture Notes 1 |
 | [Computer Vision](https://www.vision.rwth-aachen.de/course/25/) | RWTH AACHEN University - Computer Vision Lecture Notes 2 |
 | [Linear Algebra](https://media-exp1.licdn.com/dms/document/C561FAQFKuk3snt0g-g/feedshare-document-pdf-analyzed/0/1584295061573?e=1610881200&v=beta&t=oAEOZqv8IzB8vsqvWleEyLETSkj19WkHmA6WKVHjdXk) | Linear Algebra in Python |
@@ -280,7 +255,6 @@ resources please report to us and we will remove it.
 | [AI - Unsupervised Learning](https://storage.ning.com/topology/rest/1.0/file/get/3689870706?profile=original) | Unsupervised Learning Algorithms in One Picture |
 | [AI NLP language understanding](https://www.technologyreview.com/2021/01/12/1016031/jumbled-up-sentences-ai-doesnt-understand-language-nlp-bert-fix/) | Jumbled-up sentences show that AIs still don’t really understand language |
 | [AI language model](https://venturebeat.com/2021/01/12/google-trained-a-trillion-parameter-ai-language-model/) | Google trained a trillion parameter ai language model |
-| [Lesson 3 -  Mind map Creating a Dataset]() | I created a mindmap form lesson 3 Creating a Dataset (added pdf and jpg version) |
 | [Data Visualization](https://media-exp1.licdn.com/dms/document/C4D1FAQEVdPWIqnGBaw/feedshare-document-pdf-analyzed/0/1610901704688?e=1610989200&v=beta&t=IzBs-a7B0EP5M3POYJ43RaP5JluWeRZIVOGqi19qgFA) | Data Visualization quick-reference guide. |
 | [AI-Bias](https://www.technologyreview.com/2019/02/04/137602/this-is-how-ai-bias-really-happensand-why-its-so-hard-to-fix) | This is how AI bias really happens—and why it’s so hard to fix |
 | [AI - biases- how to overcome them](https://www.ted.com/talks/verna_myers_how_to_overcome_our_biases_walk_boldly_toward_them?utm_source=tedcomshare&utm_medium=social&utm_campaign=tedspread) | AI - biases- how to overcome them |
@@ -309,15 +283,13 @@ resources please report to us and we will remove it.
 | [Apple watch can detect covid-19](https://www.forbes.com/sites/davidphelan/2021/01/17/apple-watch-can-detect-covid-19-before-symptoms-arise-new-study-shows/?sh=6109c5933bbe) | Apple watch can detect covid-19 before symptoms arise new study shows |
 | [Women who code (network)](https://www.womenwhocode.com/) | Women who code: Empowering Women in Technology |
 | [Data Science Portfolio](https://towardsdatascience.com/how-to-create-an-amazing-data-science-portfolio-1ea4bc74ceee) | Advantageus advices and explanation on how to create an amazing data science portfolio |
-| [Pandas]() | Reading and Writing Data with Pandas |
-| [INCEPTION ](https://inception-project.github.io/) | NLP- annotation tool |
+| [Inception ](https://inception-project.github.io/) | NLP- annotation tool |
 | [CATMA](https://catma.de/) | NLP - annotation tool |
 | [Webanno](https://webanno.github.io/webanno/) | NLP -  annotation tool |
 | [Product Management for AI by Google PM](https://www.youtube.com/watch?v=CiJT36D8SZc) | Product Management for AI by Google PM, a lot of real-life examples |
 | [Data Science Portfolio](https://www.kdnuggets.com/2021/01/build-data-science-portfolio.html) | Build a Data Science Portfolio that Stands Out Using These Platforms |
 | [Python](https://media-exp1.licdn.com/dms/document/C4D1FAQFBwEB6axE20g/feedshare-document-pdf-analyzed/0/1610619351019?e=1611432000&v=beta&t=vYzfEiSh-DmYQKrEcVJIDalWshOpBeKJTVzuYpq9x8w) | Pandas CheatSheet |
 | [Statistics-Probability](https://www.khanacademy.org/math/statistics-probability) | A free statistics and probability course. Ideal for aspiring machine learning practitioners. |
-| [Numpy cheat sheet]() | Numpy cheat sheet |
 | [Python](https://media-exp1.licdn.com/dms/document/C561FAQEb6Cexh0-EvQ/feedshare-document-pdf-analyzed/0/1611379669133?e=1611518400&v=beta&t=Fcu-Nesc0bmrIvdyx38NHSsrhzm8IyIUV7AiIdi38Q0) | Introduction to Python - A self study course |
 | [Machine Learning](https://towardsdatascience.com/how-to-build-a-machine-learning-model-439ab8fb3fb1) | Building Model RoadMap |
 | [Data Science](https://www.datasciencecentral.com/profiles/blogs/explaining-data-science-to-a-non-data-scientist) | What is Data science, a good explanation for non-data sciencecist |
@@ -339,7 +311,6 @@ resources please report to us and we will remove it.
 | [AI and Well-Being](https://standards.ieee.org/content/dam/ieee-standards/standards/web/documents/other/ead1e_well_being.pdf) | AI and Well-being |
 | [Tech ethics](https://www.hattusia.com/networthy-budget-buy-in-tech-ethics) | Tech ethics |
 | [List of Math Formulas](https://www.matematica.pt/en/useful/math-formulas.php) | It has all the math formulas and cheatsheets in pdf version. Hope it will be useful for someone who is learning python to implement some math concepts |
-| [AI in Cybersecurity]() | AI in Cybersecurity |
 | [Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity) | A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security. (books, tutorials, datasets, podcasts ect.) |
 | [ML ](https://developers.google.com/machine-learning/guides/rules-of-ml) | Rules of Machine Learning: Best Practices for ML Engineering |
 | [MeshTensorFlow](https://github.com/tensorflow/mesh) | Mesh TensorFlow (mtf) is a language for distributed deep learning |
@@ -347,9 +318,6 @@ resources please report to us and we will remove it.
 | [Tensorflow object detection Api ](https://www.analyticsvidhya.com/blog/2020/04/build-your-own-object-detection-model-using-tensorflow-api/) | using Tensorflow object detection Api   |
 | [ Machine Learning](https://ml-cheatsheet.readthedocs.io/en/latest/) |  Machine Learning Glossary  |
 | [ComputerVision ](https://www.geeksforgeeks.org/opencv-python-tutorial/) |  OpenCV Library for ComputerVision  |
-| [AWS: What Leaders Must Know About Data to Drive Success With Machine Learning]() | AWS: What Leaders Must Know About Data to Drive Success With Machine Learning. Learn more about how organizations can overcome obstacles and accelerate their machine learning journeys, visit the AWS machine learning resource hub. |
-| [AWS: ML -Prepare your workforce for machine learning]() | AWS: ML -Prepare your workforce for machine learning. "Transform Your Workforce With Skills for Machine Learning" helps to discover how you can bridge the skills gap from within. |
-| [AWS: ML -Prepare your workforce for machine learning ]() | AWS: ML -Prepare your workforce for machine learning. "Transform Your Workforce With Skills for Machine Learning" helps to discover how you can bridge the skills gap from within. |
 | [Federated Learning](https://adsonair.withgoogle.com/events/privacy-at-google?talk=federated-learning) | Alex Ingerman, a product manager at Google AI, focusing on federated learning and other privacy-preserving technologies, explains in 4 minutes federated learning and how it helps all machine learning practitioners to protect their users’ privacy by default. |
 | [Deep learning](https://www.analyticsvidhya.com/blog/2021/01/understanding-architecture-of-lstm/) | Architecture of LSTM  |
 | [Deeplearning](https://www.youtube.com/watch?v=nTt_ajul8NY) | Autoencoders in Deeplearning |
@@ -419,13 +387,8 @@ resources please report to us and we will remove it.
 | [NetAdapt](https://media-exp1.licdn.com/dms/document/C4E1FAQEZ4hCmOsLtDw/feedshare-document-pdf-analyzed/0/1613473029793?e=1613592000&v=beta&t=d7YSYuDti_wVrWESsIWUUjE_rjqgRtgBpSVaIELr_Zo) | Platform-Aware Neural Network Adaptation for Mobile Applications  |
 | [Data Visualization](https://media-exp1.licdn.com/dms/document/C561FAQFJTQzL_ZmabA/feedshare-document-pdf-analyzed/0/1613497768540?e=1613588400&v=beta&t=6xOL3_0x8dqGJ80mkG_S6_Y-BhL9pQIhxmjHMQWK6-8) | Data Visualization with seaborn |
 | [Software Architecture](http://fundamentalsofsoftwarearchitecture.com) | Fundamentals of Software Architecture |
-| [Java]() | How to program (series)  java |
-| [Python]() | Python crash course book |
-| [Probability]() | Probability book advice |
 | [Leetcode, prepare for technical interviews](https://leetcode.com/) | The best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. A well-organized tool that helps you get the most out of LeetCode by providing structure to guide your progress towards the next step in your programming career |
 | [Three things to do when you don't have a computer science degree](https://kerisavoca.medium.com/3-things-to-do-when-you-dont-have-a-computer-science-degree-1ecea65b566d) | Three things to do when you don't have a computer science degree, a lot of practical advices |
-| [Data Science]() | Machine Learning Problems |
-| [Machine Learning]() | Burkov, Andriy - The hundred-page machine learning book-Andriy Burkov  |
 | [Deep Learning](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) | Convolutional Neural Networks in TensorFlow |
 | [Algorithms](https://www.udemy.com/course/coding-interview-bootcamp-algorithms-and-data-structure/) | The Coding Interview Bootcamp |
 | [Python](https://www.udemy.com/course/complete-guide-to-tensorflow-for-deep-learning-with-python/) | Learn how to use Google's Deep Learning Framework - TensorFlow with Python! Solve problems with cutting edge techniques! |
@@ -472,7 +435,6 @@ resources please report to us and we will remove it.
 | [Machine Learning](https://media-exp1.licdn.com/dms/document/C561FAQFJ0-puoAfYTg/feedshare-document-pdf-analyzed/0/1614152405326?e=1614290400&v=beta&t=ZktTo0Y1UurL8rrFscbO5CTlZvbzSy5sojoNRBMBLAw) | A Brief Introduction to Machine Learning for Engineers |
 | [Machine Learning](https://datto.engineering/post/predicting-hard-drive-failure-with-machine-learning) | Predicting Hard Drive Failure with Machine Learning |
 | [Data Science](https://media-exp1.licdn.com/dms/document/C4D1FAQH78yvL3gCIZQ/feedshare-document-pdf-analyzed/0/1614231479180?e=1614340800&v=beta&t=lpm8yBWYLzjaLiqjP-n4Pr-JeJrFSl8VBC4_CzCXPm8) | Getting Started with Data Science: Making Sense of Data with Analytics |
-| [The Art of Data Science]() | A guide for anyone who works with data |
 | [ML trends 2021](https://medium.com/codex/5-trends-to-know-in-artificial-intelligence-and-machine-learning-for-2021-53de3c7430e6) | 5 Trends to know in artificial intelligence and machine learning for 2021 |
 | [AI, ML, trends for 2021](https://medium.com/codex/5-trends-to-know-in-artificial-intelligence-and-machine-learning-for-2021-53de3c7430e6) | 5 Trends to know in Artificial Intelligence and Machine Learning for 2021 |
 | [AI for Frontend Developers](https://rangle.io/blog/ai-for-frontend-developers/) | Answers to the questions: how is AI different from traditional software development? how can AI help frontend devs? how can frontend devs get started? |
