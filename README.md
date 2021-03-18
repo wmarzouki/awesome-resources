@@ -16,7 +16,7 @@ resources please report to us and we will remove it.
 - ### [Technologies and Tools]()
 
 
-
+## Topics
 | Topic  | Description |
 |-------|-------------------|
 | [Advances in AI](https://thesequence.substack.com/) | Newsletter with brief description of things happening around AI / ML world, often provides links to working code repositories exemplifying particular technique / phenomenon. |
