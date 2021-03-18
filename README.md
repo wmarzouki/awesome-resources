@@ -1,11 +1,11 @@
 Participants of Bertelsmann Technology Scholarship created an awesome list of
 resources and they want to share it with the world, if you find illegal
-resources please report to us and we will remove.
+resources please report to us and we will remove it.
 
 ### Big Thanks to everyone from Bertelsmann Technology Scholarship participants for their contribution to this list of awesome resources
 
 
-| Topic  | Small description |
+| Topic  | Description |
 |-------|-------------------|
 | [Advances in AI](https://thesequence.substack.com/) | Newsletter with brief description of things happening around AI / ML world, often provides links to working code repositories exemplifying particular technique / phenomenon. |
 | [Research Papers on AI](https://scholar.google.com/citations?user=wZH_N7cAAAAJ&hl=en) | Multiple Research Papers on AI by Lex Friedman |
