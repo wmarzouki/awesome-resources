@@ -5,12 +5,23 @@ resources please report to us and we will remove it.
 ### Big Thanks to everyone from Bertelsmann Technology Scholarship participants for their contribution to this list of awesome resources
 
 
+
+## Categories
+- ### [Machine Learning]()
+- ### [Deep Learning]()
+- ### [Data Science]()
+- ### [Product Management]()
+- ### [Programming)()
+- ### [Mathematics]()
+- ### [Technologies and Tools]()
+
+
+
 | Topic  | Description |
 |-------|-------------------|
 | [Advances in AI](https://thesequence.substack.com/) | Newsletter with brief description of things happening around AI / ML world, often provides links to working code repositories exemplifying particular technique / phenomenon. |
 | [Research Papers on AI](https://scholar.google.com/citations?user=wZH_N7cAAAAJ&hl=en) | Multiple Research Papers on AI by Lex Friedman |
 | [Programming](https://cheatography.com/programming/) | Cheatsheets of all programming language |
-| [https://www.coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning) | Hi all, this is the coursera ML course by Andrew Ng   |
 | [Deep Learning (an MIT Press Book)](https://www.deeplearningbook.org/) | The Deep Learning book is a resource intended to help students and practitioners enter the field of machine learning in general and deep learning in particular. |
 | [Deep Learning Wizard](https://github.com/ritchieng/deep-learning-wizard/) | You will the learn the suite of tools to build an end-to-end deep learning pipeline.  |
 | [AI Expert Roadmap](https://i.am.ai/roadmap/#introduction) | Aset of charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a data scientist, machine learning or an AI expert.  |
@@ -34,7 +45,7 @@ resources please report to us and we will remove it.
 | [Learn leading-edge technologies Blockchain, Data Science, AI and more. ](https://cognitiveclass.ai/learn) | Congnitive Class Courses are all FREE & all that you need to invest is your time! They also have virtual lab environment that enables users to practice what you learn. |
 | [Scaling down Deep Learning](https://greydanus.github.io/2020/12/01/scaling-down/) | Constructing the MNIST-1D dataset. As with the original MNIST dataset, the task is to learn to classify the digits 0-9.  |
 | [How To Learn Machine Learning For Free. ](https://www.youtube.com/watch?v=QNKYKzTGerA&feature=youtu.be) | A recommendation about best free resources for learning machine learning from MIT open course, coursera and others.  |
-| [But what is a Neural Network? | Deep learning, chapter 1. ](https://www.youtube.com/watch?v=aircAruvnKk) | A detailed video about artificial neural networks with mentioning neurons and other components.  |
+| [Deep learning chapter 1: what is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk) | A detailed video about artificial neural networks with mentioning neurons and other components.  |
 | [State-of-the-art research papers about deep learning.  ](https://paperswithcode.com/) | The latest papers in machine learning and its, algorithms.  |
 | [Machine Learning & Deep Learning Fundamentals ](https://deeplizard.com/learn/playlist/PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU) | Course on Deep Learning Concepts |
 | [With DeepMind AI could be one of humanity’s most useful inventions. ](https://www.youtube.com/c/DeepMind/about) | We’re a team of scientists, engineers, machine learning experts and more, working together to advance the state of the art in artificial intelligence.   |
@@ -175,7 +186,7 @@ resources please report to us and we will remove it.
 | [Julia ](www.juliaacademy.com) | Source for learning all things Julia for free |
 | [Become a Data Scientist](https://towardsdatascience.com/a-complete-52-week-curriculum-to-become-a-data-scientist-in-2021-2b5fc77bd160) | A Complete 52 Week Curriculum to Become a Data Scientist in 2021 |
 | [Big Data](https://www.ted.com/playlists/56/making_sense_of_too_much_data) | Explore practical, ethical — and spectacularly visual — ways to understand near-infinite data.  |
-| [AI - fairness and bias](ttps://medium.com/datadriveninvestor/fairness-and-bias-in-artificial-intelligence-c7fbfe880df) | Fairness and bias in artificial intelligence |
+| [AI fairness and bias](ttps://medium.com/datadriveninvestor/fairness-and-bias-in-artificial-intelligence-c7fbfe880df) | Fairness and bias in artificial intelligence |
 | [AI Podcast ](https://forms.technologyreview.com/in-machines-we-trust/) | MIT Technology Review // In Machine we trust  |
 | [AI Podcast](https://hbr.org/2019/04/podcast-exponential-view) | Exponential View. How AI and other exponential technologies are transforming business and society. |
 | [Python NLTK (2009)](https://www.nltk.org/book/) | Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit Steven Bird, Ewan Klein, and Edward Loper |
